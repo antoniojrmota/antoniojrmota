@@ -2,7 +2,7 @@
 
 <i>Meu nome é Antônio Júnior</i>
 <br/>
-💻 Conhecimento em:</i> <b>HTML, CSS, JS, PHP, SQL</b>
+💻 Conhecimento:</i> <b>HTML, CSS, JS, PHP, SQL</b>
 <br/>
 💼 Ferramentas: <b>VsCode, Git, GitHub, Docker</b>
 
