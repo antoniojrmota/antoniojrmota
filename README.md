@@ -2,7 +2,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/95312787/144275208-3076fce3-a271-48ec-9207-b5d6749c8a73.JPG" width="120" height="100">
 <br/>
-  <b>me conheça aqui!</b>
+  <b> me conheça aqui!</b>
 </div>
 <br/>
 💻 <i>Conhecimento:</i> <b>HTML, CSS, JS, PHP, SQL</b>
