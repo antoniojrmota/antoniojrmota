@@ -1,10 +1,18 @@
-<img src="https://user-images.githubusercontent.com/95312787/144271712-ee9ff29d-bac5-48b9-a1b6-bbea6cf6517d.png" width="120" height="20">
-<div>
-<img src="https://user-images.githubusercontent.com/95312787/144275208-3076fce3-a271-48ec-9207-b5d6749c8a73.JPG" width="120" height="100">
-<br/>
-  <b>&nbsp;me conheça aqui!</b>
-</div>
-<br/>
-💻 <i>Conhecimento:</i> <b>HTML, CSS, JS, PHP, SQL</b>
-<br/>
-💼 <i>Ferramentas:</i> <b>VsCode, Git, GitHub, Docker</b>
+<p align="left"> 
+ 🖖 Olá, meu nome é Antônio Júnior. Sou <strong>Programador Full Stack PHP</strong>.
+</p>
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, PHP, SQL</strong>.
+</p>
+<p align="left">
+  💼 Ferramentas: <strong>VsCode, Docker, Compose, Git e GitHub.</strong>
+</p>
+<br>
+<p align="left">
+  <a href="https://www.instagram.com/antoniojrmota/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/antoniojrmota"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/antonio-junior-10b41985" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/antonio-junior-10b41985"/>
+  </a>
+ </p>
