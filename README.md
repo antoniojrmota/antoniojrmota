@@ -25,3 +25,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"/>
 </p>
+<div align="center">
+ <h6>Ouvindo Spotify 🎧</h6>
+
+[![Spotify](https://sound-readme.vercel.app/api/spotify)](https://open.spotify.com/user/antoniojr.mota)
+</div>
